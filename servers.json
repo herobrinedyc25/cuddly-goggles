@@ -1,0 +1,62 @@
+[
+  {
+    "id": "serveur_1",
+    "name": "Serveur Survie",
+    "host": "RFDFFFFFFFFFFFF-XDMU.aternos.me",
+    "port": 40415,
+    "version": "1.20.1",
+    "auth": "offline",
+    "botName": "GrokBot",
+    "maxPlayers": null,
+    "forceOffline": false,
+    "enabled": true
+  },
+  {
+    "id": "serveur_2",
+    "name": "Serveur Creatif",
+    "host": "rubysmp.swiftservers.org",
+    "port": 25565,
+    "version": "auto",
+    "auth": "offline",
+    "botName": "GrokBot2",
+    "maxPlayers": null,
+    "forceOffline": false,
+    "enabled": true
+  },
+  {
+    "id": "serveur_3",
+    "name": "Serveur 3",
+    "host": "CHANGE_MOI_3.aternos.me",
+    "port": 25565,
+    "version": "1.20.4",
+    "auth": "offline",
+    "botName": "GrokBot3",
+    "maxPlayers": null,
+    "forceOffline": false,
+    "enabled": false
+  },
+  {
+    "id": "serveur_4",
+    "name": "Serveur 4",
+    "host": "CHANGE_MOI_4.aternos.me",
+    "port": 25565,
+    "version": "1.20.4",
+    "auth": "offline",
+    "botName": "GrokBot4",
+    "maxPlayers": null,
+    "forceOffline": false,
+    "enabled": false
+  },
+  {
+    "id": "serveur_5",
+    "name": "Serveur 5",
+    "host": "CHANGE_MOI_5.aternos.me",
+    "port": 25565,
+    "version": "1.20.4",
+    "auth": "offline",
+    "botName": "GrokBot5",
+    "maxPlayers": null,
+    "forceOffline": false,
+    "enabled": false
+  }
+]
